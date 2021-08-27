@@ -1,5 +1,5 @@
-<h1>Hi, I'm Liam!<h1>
-<h2>Heres a little about me.<h2>
+<h1>Hi, I'm Liam!</h1>
+<h2>Heres a little about me.</h2>
 <h3 align="left">Languages I Know</h3>
 
 <p align="left">
