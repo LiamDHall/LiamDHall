@@ -1,6 +1,8 @@
-<h1>Hi, I'm Liam!</h1>
+# Hi, I'm Liam!
 Please contact me via my: [Email](mailto:hall.d.liam@gmail.com)
+
 All of my projects are available at: [liam-hall.herokuapp.com](https://liam-hall.herokuapp.com)
+
 <h2>Heres a little about me.</h2>
 <h3 align="left">Languages I Know</h3>
 
