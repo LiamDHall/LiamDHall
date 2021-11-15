@@ -40,10 +40,10 @@ All of my projects are available at: [liam-hall.herokuapp.com](https://liam-hall
 <h3 align="left">Languages I'm Currently Learning</h3>
 
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" 
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="c#" 
             width="40" height="40" 
         />
     </a>
@@ -92,9 +92,9 @@ All of my projects are available at: [liam-hall.herokuapp.com](https://liam-hall
 <h3 align="left">Libaries & Frameworks I'm Currently Learning</h3>
 
 <p align="left">
-    <a href="https://reactjs.org//" target="_blank">
+    <a href="https://dotnet.microsoft.com/" target="_blank">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" 
             alt="django"
             width="40" height="40"
         /> 
