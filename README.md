@@ -7,6 +7,13 @@ All of my projects are available at: [liam-hall.herokuapp.com](https://liam-hall
 <h3 align="left">Languages I Know</h3>
 
 <p align="left">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="c#" 
+            width="40" height="40" 
+        />
+    </a>
     <a href="https://www.python.org" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -40,13 +47,6 @@ All of my projects are available at: [liam-hall.herokuapp.com](https://liam-hall
 <h3 align="left">Languages I'm Currently Learning</h3>
 
 <p align="left">
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="c#" 
-            width="40" height="40" 
-        />
-    </a>
     <a href="https://sass-lang.com" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
@@ -59,11 +59,18 @@ All of my projects are available at: [liam-hall.herokuapp.com](https://liam-hall
 <h3 align="left">Libaries & Frameworks I Use</h3>
 
 <p align="left">
-    <a href="https://www.djangoproject.com/" target="_blank">
+    <a href="https://dotnet.microsoft.com/" target="_blank">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" 
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" 
             alt="django"
             width="40" height="40"
+        /> 
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+        <img
+            src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" 
+            alt="django"
+            width="60" height="40"
         /> 
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank"> 
@@ -90,20 +97,20 @@ All of my projects are available at: [liam-hall.herokuapp.com](https://liam-hall
 </p>
 
 <h3 align="left">Libaries & Frameworks I'm Currently Learning</h3>
-
 <p align="left">
-    <a href="https://dotnet.microsoft.com/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" 
-            alt="django"
-            width="40" height="40"
-        /> 
-    </a>
+
 </p>
 
-<h3 align="left">Databases</h3>
+<h3 align="left">Tools & Databases</h3>
 
 <p align="left">
+    <a href="https://azure.microsoft.com/en-gb/free/search/?&ef_id=Cj0KCQjw3eeXBhD7ARIsAHjssr91NG4yCHzINs2NwaUCF9B_TTFJtYujZJtl8TquqbOeBKvnTLtAzmYaAmF-EALw_wcB:G:s&OCID=AIDcmm3bvqzxp1_SEM_Cj0KCQjw3eeXBhD7ARIsAHjssr91NG4yCHzINs2NwaUCF9B_TTFJtYujZJtl8TquqbOeBKvnTLtAzmYaAmF-EALw_wcB:G:s&gclid=Cj0KCQjw3eeXBhD7ARIsAHjssr91NG4yCHzINs2NwaUCF9B_TTFJtYujZJtl8TquqbOeBKvnTLtAzmYaAmF-EALw_wcB" target="_blank">
+        <img
+            src="https://swimburger.net/media/fbqnp2ie/azure.svg"
+            alt="Azure"
+            width="40" height="40"
+        />
+    </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
